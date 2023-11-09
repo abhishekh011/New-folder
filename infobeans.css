@@ -1,0 +1,25 @@
+.slidebar-text{
+    position: absolute;
+    left: 1%;
+    
+}
+.slide-para{
+    font-size: 2vw !important;
+}
+.bgcolorpink{
+    background-color: #AA142D;;
+}
+.colorpink{
+    color: #AA142D;
+}
+#clientheading{
+    font-size: 3vw;
+}
+#heading{
+    font-size: 3.4vw;
+}
+@media screen and (min-width: 1000px) {
+    #pos{
+        position: sticky; top: 110px;
+    }
+}
